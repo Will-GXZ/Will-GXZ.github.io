@@ -1,0 +1,17 @@
+/* reset basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+/* set header */
+.site-header {border-top: 5px solid #434343; border-bottom: 1px solid #d5d5d5; min-height: 55px; position: relative; }
+
+.header-div {font-size: 26px; font-weight: 450; color: #303030; margin-left: 10%; line-height: 55px; float: left; }
+
+body {font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; font-weight: 300; color: #111; background-color: #fbfbfb; }
+
+a {color: #2a7ae2; text-decoration: none; }
+a:visited {color: #303030; }
+a:hover {color: #303030; text-decoration: underline;}
+
+a .header-link {color: #303030; }
+
+.resume {float: right; font-size: 20px; line-height: 55px; margin-right: 18%; }
