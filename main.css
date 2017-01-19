@@ -1,4 +1,4 @@
-/*v1.0 Created by Xiaozheng Guo, 2017-01-19 00:40:42*/
+/*v1.1 Created by Xiaozheng Guo, 2017-01-19 00:40:42*/
 
 /* reset basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0; padding: 0; }
@@ -16,7 +16,7 @@ a:hover {color: #303030; text-decoration: underline;}
 
 .header-link {color: #303030; }
 
-.resume {float: right; font-size: 20px; line-height: 55px; margin-right: 18%; }
+.resume {float: right; font-size: 18px; line-height: 55px; margin-right: 18%; }
 
 .page-header {font-size: 22px; color: #303030; line-height: 2; }
 
@@ -43,6 +43,6 @@ a:hover {color: #303030; text-decoration: underline;}
 .education em {font-size: 23px; font-family: Times, Helvetica, Arial, sans-serif; font-style: normal; color: #303030; }
 
 .footbar {margin-left: 15%; margin-right: 15%; margin-top: 50px; }
-.footbar p {color: #909090; }
+.footbar p {color: #909090; text-align: center; }
 .footbar a {font-size: 16px; color: #909090; text-decoration: underline;}
 .footbar a:hover {color: #ffaa33; }
