@@ -1,17 +1,48 @@
+/*v1.0 Created by Xiaozheng Guo, 2017-01-19 00:40:42*/
+
 /* reset basic elements */
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6 {font-weight: 300; }
 
 /* set header */
-.site-header {border-top: 5px solid #434343; border-bottom: 1px solid #d5d5d5; min-height: 55px; position: relative; }
+.site-header {border-top: 5px solid #434343; border-bottom: 1px solid #d5d5d5; min-height: 55px; position: relative; margin-bottom: 30px; }
 
 .header-div {font-size: 26px; font-weight: 450; color: #303030; margin-left: 15%; line-height: 55px; float: left; }
 
 body {font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; font-weight: 300; color: #111; background-color: #fbfbfb; }
 
 a {text-decoration: none; }
-a:visited {color: #303030; }
 a:hover {color: #303030; text-decoration: underline;}
 
-a .header-link {color: #303030; }
+.header-link {color: #303030; }
 
 .resume {float: right; font-size: 20px; line-height: 55px; margin-right: 18%; }
+
+.page-header {font-size: 22px; color: #303030; line-height: 2; }
+
+.page {border-bottom: 1px solid #d5d5d5; margin-bottom: 30px; }
+
+.page a {color: #2299bb; font-size: 24px; }
+.page a:hover {color: #303030; }
+.page a:visited {color: #ffaa33; }
+
+.page .date {color: #858585; font-size: 16px; }
+
+.page ul {list-style-type: none;}
+.page ul li {margin-bottom: 25px; margin-top: 10px; }
+
+.icon {width: 15px; height: 15px; margin-right: 2px; }
+
+.projects {margin-left: 15%; margin-right: 15%; }
+
+.education {margin-left: 15%; margin-right: 15%; }
+
+.education ul {list-style-type: none; }
+.education ul li {margin-bottom: 25px; margin-top: 10px; }
+.education p {font-size: 20px; color: #707070; font-style: normal; }
+.education em {font-size: 23px; font-family: Times, Helvetica, Arial, sans-serif; font-style: normal; color: #303030; }
+
+.footbar {margin-left: 15%; margin-right: 15%; margin-top: 50px; }
+.footbar p {color: #909090; }
+.footbar a {font-size: 16px; color: #909090; text-decoration: underline;}
+.footbar a:hover {color: #ffaa33; }
