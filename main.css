@@ -5,7 +5,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {ma
 h1, h2, h3, h4, h5, h6 {font-weight: 300; }
 
 /* set header */
-.site-header {border-top: 5px solid #434343; border-bottom: 1px solid #d5d5d5; min-height: 55px; position: relative; margin-bottom: 30px; }
+.site-header {border-top: 5px solid #434343; border-bottom: 1px solid #d5d5d5; min-height: 55px; position: relative; margin-bottom: 30px; background-color: #efefef; }
 
 .header-div {font-size: 26px; font-weight: 450; color: #303030; margin-left: 15%; line-height: 55px; float: left; }
 
