@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {font-weight: 300; }
 
 .header-div {font-size: 26px; font-weight: 450; color: #303030; margin-left: 15%; line-height: 55px; float: left; }
 
-body {font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; font-weight: 300; color: #111; background-color: #fbfbfb; }
+body {font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; font-weight: 300; color: #111; background-color: #fbfbfb; }
 
 a {text-decoration: none; }
 a:hover {color: #303030; text-decoration: underline;}
@@ -38,11 +38,11 @@ a:hover {color: #303030; text-decoration: underline;}
 .education {margin-left: 15%; margin-right: 15%; }
 
 .education ul {list-style-type: none; }
-.education ul li {margin-bottom: 25px; margin-top: 10px; }
+.education ul li {margin-bottom: 20px; margin-top: 10px; }
 .education p {font-size: 20px; color: #707070; font-style: normal; }
 .education em {font-size: 23px; font-family: Times, Helvetica, Arial, sans-serif; font-style: normal; color: #303030; }
 
-.footbar {margin-left: 15%; margin-right: 15%; margin-top: 110px; }
+.footbar {margin-left: 15%; margin-right: 15%; margin-top: 110px; margin-bottom: 30px}
 .footbar p {color: #909090; text-align: center; }
 .footbar a {font-size: 15px; color: #909090; text-decoration: underline;}
 .footbar a:hover {color: #ffaa33; }
